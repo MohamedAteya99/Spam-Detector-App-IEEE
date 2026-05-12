@@ -5,4 +5,4 @@ Menna Allah Taha
 Saef Diaa ElDen Ateya 
 Eman ElBadry
 Youssef Abo AlQassem
-https://spam-detector-app-ieee-72bgqbhptyp5mjxh4h5xub.streamlit.app/
+https://spam-detector-app-ieee-haxinxznwmwzfjokc4xghx.streamlit.app/
